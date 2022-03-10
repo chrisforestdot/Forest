@@ -1,0 +1,179 @@
+<!doctype html>
+<html>
+<head>
+  <title>Project For Rest - 프로젝트 목적</title>
+  <meta charset="utf-8">
+</head>
+<body>
+  <h1><a href="index.html">Projcet For Rest <img src="forrest logo.png" width="35"></a></h1>
+  <ol>
+    <li><a href="1.html">프로젝트 목적</a></li>
+    <li><a href="2.html">참고 App</a></li>
+    <li><a href="3.html">프로젝트 테마</a></li>
+    <li><a href="4.html">테마별 필수 기재내용</a></li>
+  </ol>
+  <h2>프로젝트 목적</h2>
+  <p>1) <a href=https://ko.wikipedia.org/wiki/%EC%86%8C%EB%B9%84%EC%9E%90 target="_blank" title="소비자의 정의">소비자</a>의 여가 시간 활용을 위한 <u>정보제공</u> 플랫폼</p>
+  <p>2) 여가 활동과 관련된 <u>제품 쇼핑</u> 플랫폼</p>
+  <p>3) 소비자들간의 <u>여가 일상 기록</u>을 위한 플랫폼(여가의 인스타그램)</p>
+<p>
+  <div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://web2-w3um3u3no9.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</p>
+</body>
+</html>
+<!doctype html>
+<html>
+<head>
+  <title>Project For Rest - 참고 App</title>
+  <meta charset="utf-8">
+  <style>
+    a {
+      color:black;
+    }
+  </style>
+</head>
+<body>
+  <h1><a href="index.html"><font color="red">Projcet For Rest</font> <img src="forrest logo.png" width="35"></a></h1>
+  <ol>
+    <li><a href="1.html">프로젝트 목적</a></li>
+    <li><a href="2.html">참고 App</a></li>
+    <li><a href="3.html">프로젝트 테마</a></li>
+    <li><a href="4.html">테마별 필수 기재내용</a></li>
+  </ol>
+<!--
+  <h1><a href="index.html"><font color="red">Projcet For Rest</font> <img src="forrest logo.png" width="35"></a></h1>
+  <ol>
+    <li><a href="1.html"><font color="red">프로젝트 목적</font></a></li>
+    <li><a href="2.html"><font color="red"><참고/font> App</a></li>
+    <li><a href="3.html"><font color="red"><프로젝트 테마/font></a></li>
+    <li><a href="4.html"><font color="red"><테마별 필수 기재내용/font></a></li>
+  </ol>
+-->
+
+  <h2>참고 App</h2>
+  <p>1) <a href=https://www.lifeplus.co.kr/main/ target="_blank" title="라이프 플러스">LIFEPLUS</a>
+  <p>2) <a href=https://www.instagram.com/ target="_blank" title="인스타그램">INSTAGRAM</a>
+  <p>3) <a href=http://travelholic1.cafe24.com/   target="_blank" title="여미">여행에 미치다</a>
+</body>
+</html>
+
+<!doctype html>
+<html>
+<head>
+  <title>Project For Rest - 프로젝트 테마</title>
+  <meta charset="utf-8">
+</head>
+<body>
+  <h1><a href="index.html">Projcet For Rest <img src="forrest logo.png" width="35"></a></h1>
+  <ol>
+    <li><a href="1.html">프로젝트 목적</a></li>
+    <li><a href="2.html">참고 App</a></li>
+    <li><a href="3.html">프로젝트 테마</a></li>
+    <li><a href="4.html">테마별 필수 기재내용</a></li>
+  </ol>
+  <h2>프로젝트 테마</h2>
+  <p>1) 등산</p>
+  <p>2) 산책</p>
+  <p>3) 웨이트 트레이닝</p>
+  <p>4) 골</p>
+
+</body>
+</html>
+
+<!doctype html>
+<html>
+<head>
+  <title>Project For Rest - 테마별 필수 기재내용</title>
+  <meta charset="utf-8">
+</head>
+<body>
+  <h1><a href="index.html">Projcet For Rest <img src="forrest logo.png" width="35"></a></h1>
+  <ol>
+    <li><a href="1.html">프로젝트 목적</a></li>
+    <li><a href="2.html">참고 App</a></li>
+    <li><a href="3.html">프로젝트 테마</a></li>
+    <li><a href="4.html">테마별 필수 기재내용</a></li>
+  </ol>
+  <h2>테마별 필수 기재내용</h2>
+  <p>각 테마와 관련된 장소 추천</p>
+  <p>장소 관련 내용 안내(난이도, 소요시간 등)</p>
+  <p>테마별 커뮤니티</p>
+  <p>테마별 쇼핑 페이</p>
+</body>
+</html>
+<input type="checkbox"> 나는 태연이 좋다.<br>
+<input type="checkbox"> 나는 태연이 싫다.
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5ch94AaPZRQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<p>
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://project-for-rest.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</p>
+<!doctype html>
+<html>
+<head>
+  <title>Project For Rest - Welcome</title>
+  <meta charset="utf-8">
+</head>
+<body>
+  <h1><a href="index.html">Projcet For Rest <img src="forrest logo.png" width="35"></a></h1>
+  <ol>
+    <li><a href="1.html">프로젝트 목적</a></li>
+    <li><a href="2.html">참고 App</a></li>
+    <li><a href="3.html">프로젝트 테마</a></li>
+    <li><a href="4.html">테마별 필수 기재내용</a></li>
+    <li><a href="Checkbox.html">체크박스 및 댓글</a></li>
+  </ol>
+  <h2>프로젝트 포레스트</h2>
+  <p>1) <a href=https://www.instagram.com/forrest.official_/ target="_blank" title="forrest.official_">포레스트(For Rest)</a></p>
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+  var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+  (function(){
+  var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+  s1.async=true;
+  s1.src='https://embed.tawk.to/62270dbea34c24564129faab/1ftk8rc0s';
+  s1.charset='UTF-8';
+  s1.setAttribute('crossorigin','*');
+  s0.parentNode.insertBefore(s1,s0);
+  })();
+  </script>
+  <!--End of Tawk.to Script-->
+</body>
+</html>
